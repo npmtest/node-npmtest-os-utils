@@ -1,6 +1,6 @@
 # npmtest-os-utils
 
-#### test coverage for  [os-utils (v0.0.14)](https://github.com/oscmejia/os-utils#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-os-utils.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-os-utils) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-os-utils.svg)](https://travis-ci.org/npmtest/node-npmtest-os-utils)
+#### basic test coverage for  [os-utils (v0.0.14)](https://github.com/oscmejia/os-utils#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-os-utils.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-os-utils) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-os-utils.svg)](https://travis-ci.org/npmtest/node-npmtest-os-utils)
 
 #### an operating-system utility library
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-os-utils/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-os-utils/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-os-utils/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-os-utils/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-os-utils/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-os-utils/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-os-utils/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-os-utils/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-os-utils/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-os-utils/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-os-utils/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-os-utils/build/coverage.html/index.html)
 
@@ -79,7 +79,8 @@
         "url": "git://github.com/oscmejia/os-utils.git"
     },
     "url": "http://oscar-mejia.com",
-    "version": "0.0.14"
+    "version": "0.0.14",
+    "bin": {}
 }
 ```
 
